@@ -1,0 +1,25 @@
+.primary {
+  color: var(--primary-color);
+  background-color: var(--bg-color);
+}
+
+.inverted {
+  color: var(--inverted-primary-color);
+  background-color: var(--inverted-bg-color);
+}
+
+.headingWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem;
+}
+
+.heading {
+  margin-bottom: 0 !important;
+}
+
+.btnWrapper {
+  display: flex;
+  gap: 0.5rem;
+}

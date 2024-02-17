@@ -1,0 +1,50 @@
+.table {
+  width: 100%;
+  text-align: center;
+
+  td,
+  th {
+    padding: 0.5rem;
+  }
+}
+
+.selected {
+  color: var(--secondary-color);
+  background-color: var(--secondary-bg-color);
+}
+
+.primary {
+  color: var(--primary-color);
+  background-color: var(--bg-color);
+
+  .header {
+    color: var(--inverted-primary-color);
+    background-color: var(--inverted-bg-color);
+  }
+
+  tr {
+    transition: all var(--transition);
+  }
+
+  tbody > tr:hover,
+  .selected {
+    color: var(--secondary-color);
+    background-color: var(--secondary-bg-color);
+  }
+}
+
+.inverted {
+  color: var(--inverted-primary-color);
+  background-color: var(--inverted-bg-color);
+
+  .header {
+    color: var(--primary-color);
+    background-color: var(--bg-color);
+  }
+
+  tbody > tr:hover,
+  .selected {
+    color: var(--inverted-secondary-color);
+    background-color: var(--inverted-secondary-bg-color);
+  }
+}

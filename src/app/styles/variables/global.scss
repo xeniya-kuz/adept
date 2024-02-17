@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+:root {
+  // m
+  --font-family-main: roboto, sans-serif;
+  --font-size-m: 16px;
+  --font-line-m: 24px;
+  --font-m: var(--font-size-m) / var(--font-line-m) var(--font-family-main);
+
+  // l
+  --font-size-l: 24px;
+  --font-line-l: 32px;
+  --font-l: var(--font-size-l) / var(--font-line-l) var(--font-family-main);
+
+  // xl
+  --font-size-xl: 32px;
+  --font-line-xl: 40px;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
+
+  // Размеры
+
+  // цвета
+  --bg-color: #e8e8ea;
+  --secondary-bg-color: #090949;
+  --inverted-secondary-bg-color: #cded3a;
+  --inverted-bg-color: #3e0081;
+  --primary-color: #3e0081;
+  --inverted-primary-color: #e8e8ea;
+  --secondary-color: #cded3a;
+  --inverted-secondary-color: #090949;
+  --overlay-color: rgba(0 0 0 / 60%);
+  --select-bg: #fff;
+  --error-color: #c50606;
+
+  // transitions
+  --modal-transition: 0.3s;
+  --select-transition: 0.2s;
+  --transition: 0.3s;
+
+  // z-index
+  --modal-z-index: 10;
+  --select-z-index: 5;
+}

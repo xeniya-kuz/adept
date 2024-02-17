@@ -1,0 +1,247 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "title": "MY_MONEY~!@#$%^&*()",
+      "address": "КИРИЛИЦАЁ!\"№;%:?*()",
+      "employeeCount": 9
+    },
+    {
+      "id": "2",
+      "title": "Название 2",
+      "address": "Адрес 2",
+      "employeeCount": 2
+    },
+    {
+      "id": "3",
+      "title": "Название 3",
+      "address": "Адрес 3",
+      "employeeCount": 4
+    },
+    {
+      "id": "4",
+      "title": "Название 4",
+      "address": "Адрес 4",
+      "employeeCount": 2
+    },
+    {
+      "id": "5",
+      "title": "Название 5",
+      "address": "Адрес 5",
+      "employeeCount": 3
+    },
+    {
+      "id": "6",
+      "title": "Название 6",
+      "address": "Адрес 6",
+      "employeeCount": 2
+    },
+    {
+      "id": "7",
+      "title": "Название 7",
+      "address": "Адрес 7",
+      "employeeCount": 1
+    },
+    {
+      "id": "8",
+      "title": "Название 8",
+      "address": "Адрес 8",
+      "employeeCount": 1
+    },
+    {
+      "id": "9",
+      "title": "Название 9",
+      "address": "Адрес 9",
+      "employeeCount": 1
+    },
+    {
+      "id": "10",
+      "title": "Название 10",
+      "address": "Адрес 10",
+      "employeeCount": 1
+    },
+    {
+      "id": "9978",
+      "title": "dzfv",
+      "address": "xvc",
+      "employeeCount": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": "3",
+      "companyId": "3",
+      "firstName": "Имя3",
+      "lastName": "Фамилия3",
+      "position": "Директор"
+    },
+    {
+      "id": "4",
+      "companyId": "4",
+      "firstName": "Имя4",
+      "lastName": "Фамилия4",
+      "position": "Директор"
+    },
+    {
+      "id": "5",
+      "companyId": "5",
+      "firstName": "Имя5",
+      "lastName": "Фамилия6",
+      "position": "Директор"
+    },
+    {
+      "id": "6",
+      "companyId": "6",
+      "firstName": "Имя6",
+      "lastName": "Фамилия6",
+      "position": "Директор"
+    },
+    {
+      "id": "7",
+      "companyId": "7",
+      "firstName": "Имя7",
+      "lastName": "Фамилия7",
+      "position": "Директор"
+    },
+    {
+      "id": "8",
+      "companyId": "8",
+      "firstName": "Имя8",
+      "lastName": "Фамилия8",
+      "position": "Директор"
+    },
+    {
+      "id": "9",
+      "companyId": "9",
+      "firstName": "Имя9",
+      "lastName": "Фамилия9",
+      "position": "Директор"
+    },
+    {
+      "id": "10",
+      "companyId": "10",
+      "firstName": "Имя10",
+      "lastName": "Фамилия10",
+      "position": "Директор"
+    },
+    {
+      "id": "14",
+      "companyId": "3",
+      "firstName": "Имя14",
+      "lastName": "Фамилия14",
+      "position": "Дизайнер"
+    },
+    {
+      "id": "15",
+      "companyId": "3",
+      "firstName": "Имя15",
+      "lastName": "Фамилия15",
+      "position": "Разработчик"
+    },
+    {
+      "id": "16",
+      "companyId": "3",
+      "firstName": "Имя16",
+      "lastName": "Фамилия16",
+      "position": "Тестировщик"
+    },
+    {
+      "id": "17",
+      "companyId": "4",
+      "firstName": "Имя17",
+      "lastName": "Фамилия17",
+      "position": "Дизайнер"
+    },
+    {
+      "id": "18",
+      "companyId": "5",
+      "firstName": "Имя18",
+      "lastName": "Фамилия18",
+      "position": "Разработчик"
+    },
+    {
+      "id": "19",
+      "companyId": "5",
+      "firstName": "Имя19",
+      "lastName": "Фамилия19",
+      "position": "Бухгалтер"
+    },
+    {
+      "id": "20",
+      "companyId": "6",
+      "firstName": "Имя20",
+      "lastName": "Фамилия20",
+      "position": "Разработчик"
+    },
+    {
+      "id": "e8bb",
+      "companyId": "2",
+      "firstName": "Сотрудник",
+      "lastName": "Сотрудник",
+      "position": "Дизайнер"
+    },
+    {
+      "id": "666a",
+      "companyId": "1",
+      "firstName": "!",
+      "lastName": "чул",
+      "position": "Бухгалтер"
+    },
+    {
+      "id": "7c64",
+      "companyId": "1",
+      "firstName": "\"",
+      "lastName": "ЯЧУ",
+      "position": "Директор"
+    },
+    {
+      "id": "acdb",
+      "companyId": "1",
+      "firstName": "ьойооеи",
+      "lastName": "000",
+      "position": "Директор"
+    },
+    {
+      "id": "96a5",
+      "companyId": "1",
+      "firstName": "чччч",
+      "lastName": "ччччя",
+      "position": "Директор"
+    },
+    {
+      "id": "57ba",
+      "companyId": "1",
+      "firstName": "чччч",
+      "lastName": "ччч",
+      "position": "Директор"
+    },
+    {
+      "id": "472b",
+      "companyId": "1",
+      "firstName": "чччч",
+      "lastName": "ччч",
+      "position": "Директор"
+    },
+    {
+      "id": "df55",
+      "companyId": "9978",
+      "firstName": "bcxcbxcb",
+      "lastName": "cxbxc",
+      "position": "Директор"
+    },
+    {
+      "id": "be73",
+      "companyId": "9978",
+      "firstName": "xbxbc",
+      "lastName": "xcbcb",
+      "position": "Директор"
+    },
+    {
+      "id": "bfd5",
+      "companyId": "9978",
+      "firstName": "cncgnv",
+      "lastName": "vbcvc",
+      "position": "Директор"
+    }
+  ]
+}

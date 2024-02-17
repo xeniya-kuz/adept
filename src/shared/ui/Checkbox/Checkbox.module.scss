@@ -1,0 +1,43 @@
+.checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  cursor: pointer;
+  margin: 5px;
+}
+
+.size_m {
+  .label {
+    font: var(--font-m);
+  }
+
+  .input {
+    width: var(--font-size-m);
+    height: var(--font-size-m);
+  }
+}
+
+.size_l {
+  .label {
+    font: var(--font-l);
+  }
+
+  .input {
+    width: var(--font-size-l);
+    height: var(--font-size-l);
+  }
+}
+
+.size_xl {
+  .label {
+    font: var(--font-xl);
+  }
+
+  .input {
+    width: var(--font-size-xl);
+    height: var(--font-size-xl);
+  }
+}

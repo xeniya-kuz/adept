@@ -1,0 +1,9 @@
+.form {
+  min-width: 400px;
+
+  >* {
+    &:not(:last-child) {
+      margin-bottom: 1rem;
+    }
+  }
+}
